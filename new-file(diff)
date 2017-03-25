@@ -1,0 +1,9 @@
+#include<iostream>
+using naspace std;
+int main()
+{
+  cin>>a;
+  cout<<a;
+  cout<<"hello world"<<endl;
+  return 0;
+}
